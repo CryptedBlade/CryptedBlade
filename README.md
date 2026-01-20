@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/cryptedblade" target="blank"><img src="https://img.shields.io/twitter/follow/cryptedblade?logo=twitter&style=for-the-badge" alt="cryptedblade" /></a> </p>
 <img align = "right" alt = "coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/CryptedBlade?tab=repositories](https://github.com/CryptedBlade?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/harshhhhh?tab=repositories](https://github.com/CryptedBlade?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript, and Projects I have made**
 
