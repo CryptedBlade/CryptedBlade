@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, JavaScript, and Projects I have made**
 
-- 📫 How to reach me **krishjaiswal67890@gmail.com**
+- 📫 How to reach me **harshhhhh.dev@gmail.com**
 
 - ⚡ Fun fact **I'm also a good gamer**
 
