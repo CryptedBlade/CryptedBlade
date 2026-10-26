@@ -79,13 +79,12 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 ## 🎓 Certifications
 
-
 [![Cisco](https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/badges/e589dac0-fa40-412a-9a28-162aab082f02/public_url)
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=flat)
-![Scrum](https://img.shields.io/badge/Scrum_Inc.-Registered_Scrum_Basics-C62828?style=flat)
-![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics_Job_Simulation-86BC25?style=flat)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Beginner_to_Advanced-217346?style=flat)
-![be10x](https://img.shields.io/badge/be10x-AI_Tools_Workshop-6C3FC5?style=flat)
+[![Scrum](https://img.shields.io/badge/Scrum_Inc.-Registered_Scrum_Basics-C62828?style=flat)](https://scrumlab.scruminc.com/student/achievements)
+[![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics_Job_Simulation-86BC25?style=flat)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a5f64d3a285deac748fbdb5_1784644057221_completion_certificate.pdf)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-Beginner_to_Advanced-217346?style=flat)](https://edu.skillcourse.in/view-certificate/SC-4DON55IV7X)
+[![be10x](https://img.shields.io/badge/be10x-AI_Tools_Workshop-6C3FC5?style=flat)](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971605922)
 
 | Certification | Issued by | Completed | ID |
 |---|---|---|---|
