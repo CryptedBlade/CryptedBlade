@@ -79,10 +79,19 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 ## 🎓 Certifications
 
+
 [![Cisco](https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/badges/e589dac0-fa40-412a-9a28-162aab082f02/public_url)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum_Inc.-Registered_Scrum_Basics-C62828?style=flat)
 ![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics_Job_Simulation-86BC25?style=flat)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-Beginner_to_Advanced-217346?style=flat)
 ![be10x](https://img.shields.io/badge/be10x-AI_Tools_Workshop-6C3FC5?style=flat)
+
+| Certification | Issued by | Completed | ID |
+|---|---|---|---|
+| Registered Scrum Basics™ | Agile Education, powered by Scrum Inc. | Oct 8, 2026 | RSB-5234667 |
+| AWS Cloud Practitioner Essentials | AWS Training & Certification | Oct 12, 2026 | n/a |
+| Data Analytics Essentials | Cisco Networking Academy | Sep 30, 2026 | [Credly badge](https://www.credly.com/badges/e589dac0-fa40-412a-9a28-162aab082f02/public_url) |
 
 ---
 
