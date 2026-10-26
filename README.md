@@ -35,6 +35,7 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 | Project | What it covers |
 |---|---|
+| **Uber NCR Ride Operations** | Demand, cancellations, vehicle and revenue analysis of NCR ride bookings, ending in a 7-page black-glass Power BI dashboard |
 | **Financial Operations Analytics** | Revenue forecasting, churn prediction and customer clustering on 5 years of simulated SaaS data, with a focus on finding and fixing data leakage |
 | **Retail & Marketing Analytics** | RFM segmentation, customer lifetime value and cohort retention across 10,000 retail orders |
 | **E-Commerce Data Warehouse** | Star schema (1 fact table, 4 dimensions), a validated ETL pipeline and a connected BI dashboard |
@@ -95,6 +96,27 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 ---
 
 ## 📈 Impact in Numbers
+
+---
+
+### 5️⃣ Uber NCR Ride Operations
+*Ride demand, cancellations and revenue across Delhi NCR, from raw CSV to an interactive dashboard*
+
+<p>
+  <img src="https://img.shields.io/badge/Bookings_Analyzed-150,000-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-7_Pages-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cancellation_Rate-[X]%25-C62828?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Revenue-₹[X]-2E7D32?style=for-the-badge" />
+</p>
+
+| | |
+|---|---|
+| **Scope** | [X] bookings from the public NCR ride bookings dataset, cleaned and analyzed in Jupyter, then modelled in Power BI |
+| **Key findings** | • [X]% of bookings were cancelled, led by [customer / driver] cancellations (top reason: [X])<br>• Demand peaks at [X] on [weekday / hours]<br>• [Vehicle type] earns the most revenue at ₹[X], while [vehicle type] has the highest cancellation rate at [X]% |
+| **Dashboard** | 7 pages: Home, Overview, Demand, Cancellations, Vehicles, Revenue and Insights, in a custom black-glass theme with Uber-style vehicle visuals |
+| **My contribution** | Cleaned the data and ran the analysis in Python, designed the Power BI data model and measures, and built the full dashboard layout and theme myself |
+
+---
 
 ### 1️⃣ Financial Operations Analytics
 *End-to-end analytics on a simulated 5-year SaaS business: forecasting, churn, segmentation and retention*
