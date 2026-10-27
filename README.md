@@ -31,6 +31,9 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
   <a href="https://github.com/CryptedBlade/ecommerce-data-warehouse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=ecommerce-data-warehouse&theme=dark&hide_border=true" alt="E-Commerce Data Warehouse" />
   </a>
+  <a href="https://github.com/CryptedBlade/uber-ncr-ride-operations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=uber-ncr-ride-operations&theme=dark&hide_border=true&cache_seconds=86400" alt="Uber NCR Ride Operations" />
+  </a>
 </p>
 
 | Project | What it covers |
