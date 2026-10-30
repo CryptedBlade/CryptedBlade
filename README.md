@@ -21,27 +21,39 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 ## 🚀 Top Repositories
 
-<p align="center">
-  <a href="https://github.com/CryptedBlade/financial-operations-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=financial-operations-analytics&theme=dark&hide_border=true" alt="Financial Operations Analytics" />
-  </a>
-  <a href="https://github.com/CryptedBlade/retail-marketing-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=retail-marketing-analytics&theme=dark&hide_border=true" alt="Retail & Marketing Analytics" />
-  </a>
-  <a href="https://github.com/CryptedBlade/ecommerce-data-warehouse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=ecommerce-data-warehouse&theme=dark&hide_border=true" alt="E-Commerce Data Warehouse" />
-  </a>
-  <a href="https://github.com/CryptedBlade/uber-ncr-ride-operations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=uber-ncr-ride-operations&theme=dark&hide_border=true&cache_seconds=86400" alt="Uber NCR Ride Operations" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptedBlade/financial-operations-analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=financial-operations-analytics&theme=dark&hide_border=true" alt="financial-operations-analytics" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptedBlade/retail-marketing-analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptedBlade&repo=retail-marketing-analytics&theme=dark&hide_border=true" alt="retail-marketing-analytics" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptedBlade/ecommerce-data-warehouse">
+        <img src="assets/ecommerce-card.svg" alt="ecommerce-data-warehouse" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptedBlade/uber-ncr-ride-operations">
+        <img src="assets/uber-card.svg" alt="uber-ncr-ride-operations" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 | Project | What it covers |
 |---|---|
-| **Uber NCR Ride Operations** | Demand, cancellations, vehicle and revenue analysis of NCR ride bookings, ending in a 7-page black-glass Power BI dashboard |
+| **Uber NCR Ride Operations** | Demand, cancellations, vehicle and revenue analysis of 150,000 NCR ride bookings, ending in a 7-page black-glass Power BI dashboard |
 | **Financial Operations Analytics** | Revenue forecasting, churn prediction and customer clustering on 5 years of simulated SaaS data, with a focus on finding and fixing data leakage |
 | **Retail & Marketing Analytics** | RFM segmentation, customer lifetime value and cohort retention across 10,000 retail orders |
-| **E-Commerce Data Warehouse** | Star schema (1 fact table, 4 dimensions), a validated ETL pipeline and a connected BI dashboard |
+| **E-Commerce Analytics Warehouse** | Real Olist Brazilian e-commerce data cleaned in Python, modelled as a star schema with SQL, and presented in a 6-page deep-green Power BI dashboard |
 
 ---
 
@@ -78,6 +90,8 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 ![Window Functions](https://img.shields.io/badge/SQL_Window_Functions-555555?style=for-the-badge)
 ![ACID](https://img.shields.io/badge/ACID_Transactions-555555?style=for-the-badge)
 ![Forecasting](https://img.shields.io/badge/Forecasting-555555?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile_%26_Scrum-555555?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Fundamentals-555555?style=for-the-badge)
 
 ---
 
@@ -100,28 +114,32 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 ## 📈 Impact in Numbers
 
----
-
-### 5️⃣ Uber NCR Ride Operations
-*Ride demand, cancellations and revenue across Delhi NCR, from raw CSV to an interactive dashboard*
+### 1️⃣ Uber NCR Ride Operations
+*Where do ride bookings succeed, and where are they lost? 150,000 Delhi NCR bookings, from raw CSV to a 7-page dashboard*
 
 <p>
   <img src="https://img.shields.io/badge/Bookings_Analyzed-150,000-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboard-7_Pages-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cancellation_Rate-[X]%25-C62828?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Revenue-₹[X]-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completion_Rate-62.0%25-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Revenue-%E2%82%B947.26M-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Revenue_At_Risk_(est.)-%E2%82%B924.4M-C62828?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Peak_Demand-18:00_(9.4x_quietest_hour)-E65100?style=for-the-badge" />
 </p>
 
 | | |
 |---|---|
-| **Scope** | [X] bookings from the public NCR ride bookings dataset, cleaned and analyzed in Jupyter, then modelled in Power BI |
-| **Key findings** | • [X]% of bookings were cancelled, led by [customer / driver] cancellations (top reason: [X])<br>• Demand peaks at [X] on [weekday / hours]<br>• [Vehicle type] earns the most revenue at ₹[X], while [vehicle type] has the highest cancellation rate at [X]% |
-| **Dashboard** | 7 pages: Home, Overview, Demand, Cancellations, Vehicles, Revenue and Insights, in a custom black-glass theme with Uber-style vehicle visuals |
-| **My contribution** | Cleaned the data and ran the analysis in Python, designed the Power BI data model and measures, and built the full dashboard layout and theme myself |
+| **Scope** | 150,000 ride bookings from Delhi NCR (Jan to Dec 2024), a public Kaggle dataset that appears synthetic, so findings describe this dataset and not Uber's real business |
+| **Key findings** | • Only **62.0%** of bookings became completed rides: 57,000 of 150,000 were lost<br>• **Drivers cause 72%** of cancellations (18.0% of all bookings vs 7.0% for customers)<br>• About **₹24.4M** of revenue is at risk (estimate: 48,000 cancelled or no-driver bookings × ₹508 average fare)<br>• Demand peaks at **18:00**, 9.4x the quietest hour<br>• **UPI is 45.0%** of revenue; digital payments make up 75.1% |
+| **Rigor** | Found 1,233 booking IDs repeated across 2,457 rows, confirmed they were different rides and kept them all with a unique key. Audited ratings, fares, distances and outcome flags, and found fares do not follow distance (correlation 0.006) |
+| **My contribution** | Cleaned and audited the data in Python, built a star schema with DAX measures in Power BI, and designed the full dashboard, theme, vehicle illustrations and icons myself |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CryptedBlade/uber-ncr-ride-operations/main/docs/screenshots/01-home.png" width="48%" alt="Uber dashboard, Home page" />
+  <img src="https://raw.githubusercontent.com/CryptedBlade/uber-ncr-ride-operations/main/docs/screenshots/02-overview.png" width="48%" alt="Uber dashboard, Overview page" />
+</p>
 
 ---
 
-### 1️⃣ Financial Operations Analytics
+### 2️⃣ Financial Operations Analytics
 *End-to-end analytics on a simulated 5-year SaaS business: forecasting, churn, segmentation and retention*
 
 <p>
@@ -142,7 +160,7 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 ---
 
-### 2️⃣ Retail & Marketing Analytics
+### 3️⃣ Retail & Marketing Analytics
 *What a retail business's sales data says about its customers*
 
 <p>
@@ -163,34 +181,33 @@ Hi 👋 I'm Harshvardhan, a B.Tech Electronics & Computer Engineering student wh
 
 ---
 
-### 3️⃣ E-Commerce Data Warehouse
-*Raw Olist e-commerce data to a star schema, ETL pipeline and BI dashboard*
+### 4️⃣ E-Commerce Analytics Warehouse
+*Real Olist Brazilian e-commerce data, from raw CSVs to a star schema and a 6-page dashboard*
 
 <p>
-  <img src="https://img.shields.io/badge/Fact_Table-1-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dimension_Tables-4-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL_Pipeline-Python_%26_SQL-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dataset-Real_Olist_Data-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Source_Files-9_CSVs-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-6_Pages-1B5E20?style=for-the-badge" />
 </p>
 
 | | |
 |---|---|
-| **Key findings** | • Designed a Star Schema comprising 1 fact table and 4 dimension tables in PostgreSQL<br>• Implemented 12 advanced SQL queries using window functions (`RANK`, `LAG`, `NTILE`, `ROW_NUMBER`, `FIRST_VALUE`) and dynamic SQL for row-count validation and monthly category pivots |
-| **Outcome** | End-to-end Python (Pandas) ETL pipeline executing automated cleaning, deduplication, star schema transformation, and live database load into PostgreSQL, feeding a connected Power BI dashboard |
-| **My contribution** | Designed the star schema in PostgreSQL, built the ETL in Python and SQL, and used RANK, LAG, NTILE, ROW_NUMBER and FIRST_VALUE with PARTITION BY and frame clauses |
+| **Outcome** | Rebuilt an earlier sample-data warehouse on the real Olist dataset, with a data audit and cleaning notebook, SQL scripts, and a 6-page Power BI dashboard: Executive Overview, Sales & Revenue Trends, Products & Categories, Customers & Retention, Orders & Fulfilment, Insights & Recommendations |
+| **My contribution** | Audited and cleaned the data in Python, designed the star schema and SQL, and built the dashboard layout, deep-green theme and icon set myself |
 
 ---
 
-### 4️⃣ PostgreSQL ACID Transaction Ledger
+### 5️⃣ PostgreSQL ACID Transaction Ledger
 *Safe money transfers under concurrent load*
 
 <p>
-  <img src="https://img.shields.io/badge/ACID_Properties-Full_Compliance-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Isolation_Levels-READ_COMMITTED_%26_SERIALIZABLE-0A66C2?style=for-the-badge" />
 </p>
 
 | | |
 |---|---|
-| **Key findings** | • Handled atomic debits, credits, and transaction logging inside a single `conn.begin()` block with automatic rollback on failure<br>• Enforced non-negative balance consistency via database-level `CHECK (balance >= 0)` constraints |
-| **Outcome** | A robust ledger system preventing race conditions, balance inconsistencies, and negative balances during multi-threaded concurrent transfers across `READ COMMITTED` and `SERIALIZABLE` isolation levels |
+| **How it works** | • Atomic debits, credits and transaction logging inside a single `conn.begin()` block with automatic rollback on failure<br>• Non-negative balances enforced at database level with a `CHECK (balance >= 0)` constraint |
+| **Outcome** | A ledger designed to prevent race conditions, balance inconsistencies and negative balances during multi-threaded concurrent transfers, tested under `READ COMMITTED` and `SERIALIZABLE` isolation levels |
 | **My contribution** | Wrote the schema (`schema.sql`), the transfer logic (`transfer.py`) and a concurrency test (`concurrency_test.py`) |
 
 ---
